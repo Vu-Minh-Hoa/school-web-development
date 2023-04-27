@@ -1,0 +1,35 @@
+form {
+  height: 200px;
+  background-color: #ccc;
+  padding: 20px;
+  box-shadow: 1px 3px 6px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+}
+
+table {
+}
+
+table th {
+}
+
+table thead tr td h1 {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+table th tr {
+}
+
+table tbody tr {
+}
+table tbody tr td {
+  display: flex;
+}
+table tbody tr td h4 {
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 10px 0;
+}
